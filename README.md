@@ -45,7 +45,7 @@ I was able to practice on CSS grid through the project , i had some obstacles in
 
 ### Useful resources
 
-- [Kelvin powell's Grid course]() - i love the way he explained Grid so simple not confusing and everyone can learn a thing or two from the video.
+- [Kelvin powell's Grid course](https://www.youtube.com/watch?v=rg7Fvvl3taU) - i love the way he explained Grid so simple not confusing and everyone can learn a thing or two from the video.
 
 
 ## Author
