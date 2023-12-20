@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]((https://github.com/Tolulope-as/testimonial-grid-project.git))
+- Live Site URL: [Add live site URL here]((https://grid-devproject.vercel.app/))
 
 ## My process
 The process was short and fast, I examined the design and after that i created the HTML structure, consiting of a parent div nesting 5 individual grid container, i applied styles to change the color ,size and fonts.Then,I used the grid property to create the grid layout using a initial of 4 columns which i later changed to correspond with the design.
