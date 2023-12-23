@@ -114,7 +114,13 @@ img{
     
 }
 @media screen and (min-width:1000px){
-.grid-container{
+    body{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        min-height:100vh;
+    }
+    .grid-container{
     display: grid;
     max-width:90%;
     gap: 30px;
